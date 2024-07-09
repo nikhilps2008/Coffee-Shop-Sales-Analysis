@@ -8,9 +8,13 @@ The objective is to understand sales performance, identify top-selling products,
 
 # Tools Used:
 
-Microsoft Excel
+Microsoft Excel: For data cleaning, analysis, and visualization.
 
-Power Query Editor
+Power Query Editor: To transform and load data efficiently.
+
+Pivot Tables and Charts: For creating dynamic and interactive visualizations.
+
+Advanced Excel Features: Such as conditional formatting, data validation, and dynamic arrays
 
 # Key Analysis and Insights:
 
