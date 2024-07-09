@@ -20,7 +20,6 @@ Total Sales and Footfall: The coffee shop achieved a total sales revenue of $698
 Sales by Store Location: Hell's Kitchen has the highest sales revenue at $236.5K, followed by Astoria ($232.2K) and Lower Manhattan ($230.1K).
 Revenue by Category: Coffee beans generate the highest revenue at $270.0K, followed by tea at $196.4K.
 Orders by Hour: Peak ordering time is between 9 AM and 11 AM.
-Footfall Analysis: Weekend footfall (72.10%) significantly exceeds weekday footfall (27.90%).
 
 # Conclusion:
 
