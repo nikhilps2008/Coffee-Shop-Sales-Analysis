@@ -8,14 +8,14 @@ Understanding sales performance and customer behaviour is crucial for optimizing
 
 ## Visualizations
 The dashboard includes various visualizations to explore different aspects of the sales data:
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive%20Sales%20Analysis-2.png)
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Coffee%20Shop%20Sales%20Analysis.png)
 
 ## Author
 Nikhil Sreenivasan
 
 ## Data Sources
 - **Dataset:** Contains sales data including product details, revenue, customer footfall, and store location metrics.
-- **Data File Location:** `/data/coffee_shop_sales_data.xlsx`
+- **Data File Location:** `data/`
 
 ## Dependencies
 - **Microsoft Excel:** For data cleaning, analysis, and visualization.
