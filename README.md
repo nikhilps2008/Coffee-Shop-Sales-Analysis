@@ -33,6 +33,9 @@ The project follows the structure below:
 ## Visualizations
 The dashboard includes various visualizations to explore different aspects of the sales data:
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Coffee%20Shop%20Sales%20Analysis.png)
+- **Dashboard Demo:**
+
+https://github.com/user-attachments/assets/3ba3545e-e9f3-4084-b176-dd6af9b15b20
 
 ## Author
 Nikhil Sreenivasan
